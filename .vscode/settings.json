@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\Deadpool\\.virtualenvs\\backend-K2yPZe5a\\Scripts\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "./**",
+    ],
+}
